@@ -73,17 +73,6 @@ cd AI-in-Social-Engineering-and-Phishing-Campaigns
 pip install -r requirements.txt
 ```
 
-4️⃣ Train the model:
-
-```bash
-python tool/source_code/train_model.py
-```
-
-5️⃣ Run the Flask app:
-
-```bash
-python tool/source_code/app.py
-```
 
 ---
 
