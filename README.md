@@ -50,27 +50,42 @@ python phishing_gui.py
 Enter your OpenAI API key and start classifying or generating phishing emails.
 
 ---
-## 🔧 Installation & Setup  
-1️⃣ Clone the repository:  
+
+---
+
+## 🔧 Installation & Setup
+
+1️⃣ Clone the repository:
+
 ```bash
-git clone git@github.com:your-SwayamChougule/your-Phishing_Email_Detector.git
-```  
-2️⃣ Navigate to the project folder:  
+git clone https://github.com/Abhishekpanwar-23/AI-in-Social-Engineering-and-Phishing-Campaigns.git
+```
+
+2️⃣ Navigate to the project folder:
+
 ```bash
-cd C:\Users\SWAYAM\OneDrive\Desktop\PhishingEmailDetector
-```  
-3️⃣ Install dependencies:  
+cd AI-in-Social-Engineering-and-Phishing-Campaigns
+```
+
+3️⃣ Install dependencies:
+
 ```bash
 pip install -r requirements.txt
-```  
-4️⃣ Train the model:  
+```
+
+4️⃣ Train the model:
+
 ```bash
 python tool/source_code/train_model.py
-```  
-5️⃣ Run the Flask app:  
+```
+
+5️⃣ Run the Flask app:
+
 ```bash
 python tool/source_code/app.py
-```  
+```
+
+---
 
 
 ## 📽️ Demo Video
