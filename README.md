@@ -1,4 +1,3 @@
-Based on the content of your project file (`phishing_gui.py`) and the internship submission guidelines, here is a **README.md** formatted for your GitHub repository:
 
 ---
 
