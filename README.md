@@ -66,7 +66,7 @@ Enter your OpenAI API key and start classifying or generating phishing emails.
 ## 📽️ Demo Video
 
 Watch the tool in action on YouTube:
-📺 [YouTube Demo Link](https://your-demo-link.com)
+📺 [YouTube Demo Link](https://www.youtube.com/watch?v=UkhbUjS07fk)
 
 ---
 
